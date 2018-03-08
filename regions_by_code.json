@@ -1,1 +1,572 @@
-{"24": {"name_en": "Krasnoyarsk", "district_en": "Siberian Federal District", "name": "\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439", "district": "\u0421\u0438\u0431\u0438\u0440\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "25": {"name_en": "Primor'ye", "district_en": "Far Eastern Federal District", "name": "\u041f\u0440\u0438\u043c\u043e\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439", "district": "\u0414\u0430\u043b\u044c\u043d\u0435\u0432\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "26": {"name_en": "Stavropol'", "district_en": "North Caucasus federal district", "name": "\u0421\u0442\u0430\u0432\u0440\u043e\u043f\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439", "district": "\u0421\u0435\u0432\u0435\u0440\u043e-\u041a\u0430\u0432\u043a\u0430\u0437\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "27": {"name_en": "Khabarovsk", "district_en": "Far Eastern Federal District", "name": "\u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439", "district": "\u0414\u0430\u043b\u044c\u043d\u0435\u0432\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "20": {"name_en": "Chechnya", "district_en": "North Caucasus federal district", "name": "\u0427\u0435\u0447\u0435\u043d\u0441\u043a\u0430\u044f \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430", "district": "\u0421\u0435\u0432\u0435\u0440\u043e-\u041a\u0430\u0432\u043a\u0430\u0437\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "21": {"name_en": "Chuvash", "district_en": "Volga Federal District", "name": "\u0427\u0443\u0432\u0430\u0448\u0441\u043a\u0430\u044f \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430", "district": "\u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "22": {"name_en": "Altay", "district_en": "Siberian Federal District", "name": "\u0410\u043b\u0442\u0430\u0439\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439", "district": "\u0421\u0438\u0431\u0438\u0440\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "23": {"name_en": "Krasnodar", "district_en": "South federal district", "name": "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439", "district": "\u042e\u0436\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "28": {"name_en": "Amur", "district_en": "Far Eastern Federal District", "name": "\u0410\u043c\u0443\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u0414\u0430\u043b\u044c\u043d\u0435\u0432\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "29": {"name_en": "Arkhangel'sk", "district_en": "Northwestern Federal District", "name": "\u0410\u0440\u0445\u0430\u043d\u0433\u0435\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "59": {"name_en": "Perm'", "district_en": "Volga Federal District", "name": "\u041f\u0435\u0440\u043c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439", "district": "\u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "58": {"name_en": "Penza", "district_en": "Volga Federal District", "name": "\u041f\u0435\u043d\u0437\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "55": {"name_en": "Omsk", "district_en": "Siberian Federal District", "name": "\u041e\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u0421\u0438\u0431\u0438\u0440\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "54": {"name_en": "Novosibirsk", "district_en": "Siberian Federal District", "name": "\u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u0421\u0438\u0431\u0438\u0440\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "57": {"name_en": "Orel", "district_en": "Central Federal District", "name": "\u041e\u0440\u043b\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "56": {"name_en": "Orenburg", "district_en": "Volga Federal District", "name": "\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "51": {"name_en": "Murmansk", "district_en": "Northwestern Federal District", "name": "\u041c\u0443\u0440\u043c\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "50": {"name_en": "Moskovsskaya", "district_en": "Central Federal District", "name": "\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "53": {"name_en": "Novgorod", "district_en": "Northwestern Federal District", "name": "\u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "52": {"name_en": "Nizhegorod", "district_en": "Volga Federal District", "name": "\u041d\u0438\u0436\u0435\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "88": {"name_en": "Krasnoyarsk", "district_en": "Siberian Federal District", "name": "\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439", "district": "\u0421\u0438\u0431\u0438\u0440\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "89": {"name_en": "Yamal-Nenets", "district_en": "Ural Federal District", "name": "\u042f\u043c\u0430\u043b\u043e-\u041d\u0435\u043d\u0435\u0446\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433", "district": "\u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "82": {"name_en": "Kamchatka", "district_en": "Far Eastern Federal District", "name": "\u041a\u0430\u043c\u0447\u0430\u0442\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439", "district": "\u0414\u0430\u043b\u044c\u043d\u0435\u0432\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "83": {"name_en": "Nenets", "district_en": "Northwestern Federal District", "name": "\u041d\u0435\u043d\u0435\u0446\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433", "district": "\u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "80": {"name_en": "Chita", "district_en": "Siberian Federal District", "name": "\u0417\u0430\u0431\u0430\u0439\u043a\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439", "district": "\u0421\u0438\u0431\u0438\u0440\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "81": {"name_en": "Perm'", "district_en": "Volga Federal District", "name": "\u041f\u0435\u0440\u043c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439", "district": "\u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "86": {"name_en": "Khanty-Mansiy", "district_en": "Ural Federal District", "name": "\u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 - \u042e\u0433\u0440\u0430", "district": "\u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "87": {"name_en": "Chukchi Autonomous Okrug", "district_en": "Far Eastern Federal District", "name": "\u0427\u0443\u043a\u043e\u0442\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433", "district": "\u0414\u0430\u043b\u044c\u043d\u0435\u0432\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "84": {"name_en": "Krasnoyarsk", "district_en": "Siberian Federal District", "name": "\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439", "district": "\u0421\u0438\u0431\u0438\u0440\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "85": {"name_en": "Irkutsk", "district_en": "Siberian Federal District", "name": "\u0418\u0440\u043a\u0443\u0442\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u0421\u0438\u0431\u0438\u0440\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "02": {"name_en": "Bashkortostan", "district_en": "Volga Federal District", "name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0430\u0448\u043a\u043e\u0440\u0442\u043e\u0441\u0442\u0430\u043d", "district": "\u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "03": {"name_en": "Buryat", "district_en": "Siberian Federal District", "name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0443\u0440\u044f\u0442\u0438\u044f", "district": "\u0421\u0438\u0431\u0438\u0440\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "01": {"name_en": "Adygey", "district_en": "South federal district", "name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0410\u0434\u044b\u0433\u0435\u044f", "district": "\u042e\u0436\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "06": {"name_en": "Ingush", "district_en": "North Caucasus federal district", "name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0418\u043d\u0433\u0443\u0448\u0435\u0442\u0438\u044f", "district": "\u0421\u0435\u0432\u0435\u0440\u043e-\u041a\u0430\u0432\u043a\u0430\u0437\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "07": {"name_en": "Kabardin-Balkar", "district_en": "North Caucasus federal district", "name": "\u041a\u0430\u0431\u0430\u0440\u0434\u0438\u043d\u043e-\u0411\u0430\u043b\u043a\u0430\u0440\u0441\u043a\u0430\u044f \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430", "district": "\u0421\u0435\u0432\u0435\u0440\u043e-\u041a\u0430\u0432\u043a\u0430\u0437\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "04": {"name_en": "Gorno-Altay", "district_en": "Siberian Federal District", "name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0410\u043b\u0442\u0430\u0439", "district": "\u0421\u0438\u0431\u0438\u0440\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "05": {"name_en": "Dagestan", "district_en": "North Caucasus federal district", "name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0414\u0430\u0433\u0435\u0441\u0442\u0430\u043d", "district": "\u0421\u0435\u0432\u0435\u0440\u043e-\u041a\u0430\u0432\u043a\u0430\u0437\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "08": {"name_en": "Kalmyk", "district_en": "South federal district", "name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0430\u043b\u043c\u044b\u043a\u0438\u044f", "district": "\u042e\u0436\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "09": {"name_en": "Karachay-Cherkess", "district_en": "North Caucasus federal district", "name": "\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0441\u043a\u0430\u044f \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430", "district": "\u0421\u0435\u0432\u0435\u0440\u043e-\u041a\u0430\u0432\u043a\u0430\u0437\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "39": {"name_en": "Kaliningrad", "district_en": "Northwestern Federal District", "name": "\u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "38": {"name_en": "Irkutsk", "district_en": "Siberian Federal District", "name": "\u0418\u0440\u043a\u0443\u0442\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u0421\u0438\u0431\u0438\u0440\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "33": {"name_en": "Vladimir", "district_en": "Central Federal District", "name": "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "32": {"name_en": "Bryansk", "district_en": "Central Federal District", "name": "\u0411\u0440\u044f\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "31": {"name_en": "Belgorod", "district_en": "Central Federal District", "name": "\u0411\u0435\u043b\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "30": {"name_en": "Astrakhan'", "district_en": "South federal district", "name": "\u0410\u0441\u0442\u0440\u0430\u0445\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u042e\u0436\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "37": {"name_en": "Ivanovo", "district_en": "Central Federal District", "name": "\u0418\u0432\u0430\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "36": {"name_en": "Voronezh", "district_en": "Central Federal District", "name": "\u0412\u043e\u0440\u043e\u043d\u0435\u0436\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "35": {"name_en": "Vologda", "district_en": "Northwestern Federal District", "name": "\u0412\u043e\u043b\u043e\u0433\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "34": {"name_en": "Volgograd", "district_en": "South federal district", "name": "\u0412\u043e\u043b\u0433\u043e\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u042e\u0436\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "60": {"name_en": "Pskov", "district_en": "Northwestern Federal District", "name": "\u041f\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "61": {"name_en": "Rostov", "district_en": "South federal district", "name": "\u0420\u043e\u0441\u0442\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u042e\u0436\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "62": {"name_en": "Ryazan'", "district_en": "Central Federal District", "name": "\u0420\u044f\u0437\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "63": {"name_en": "Samara", "district_en": "Volga Federal District", "name": "\u0421\u0430\u043c\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "64": {"name_en": "Saratov", "district_en": "Volga Federal District", "name": "\u0421\u0430\u0440\u0430\u0442\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "65": {"name_en": "Sakhalin", "district_en": "Far Eastern Federal District", "name": "\u0421\u0430\u0445\u0430\u043b\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u0414\u0430\u043b\u044c\u043d\u0435\u0432\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "66": {"name_en": "Sverdlovsk", "district_en": "Ural Federal District", "name": "\u0421\u0432\u0435\u0440\u0434\u043b\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "67": {"name_en": "Smolensk", "district_en": "Central Federal District", "name": "\u0421\u043c\u043e\u043b\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "68": {"name_en": "Tambov", "district_en": "Central Federal District", "name": "\u0422\u0430\u043c\u0431\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "69": {"name_en": "Tver'", "district_en": "Central Federal District", "name": "\u0422\u0432\u0435\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "99": {"name_en": "-", "district_en": "-", "name": "\u041d\u0435 \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u043e", "district": "-"}, "91": {"name_en": "Crimea", "district_en": "South federal district", "name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0440\u044b\u043c", "district": "\u042e\u0436\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "93": {"name_en": "Ul'yanovsk", "district_en": "Volga Federal District", "name": "\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "92": {"name_en": "Sevastopol'", "district_en": "South federal district", "name": "\u0421\u0435\u0432\u0430\u0441\u0442\u043e\u043f\u043e\u043b\u044c", "district": "\u042e\u0436\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "94": {"name_en": "Saratov", "district_en": "Volga Federal District", "name": "\u0421\u0430\u0440\u0430\u0442\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "97": {"name_en": "Moskva", "district_en": "Central Federal District", "name": "\u041c\u043e\u0441\u043a\u0432\u0430", "district": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "11": {"name_en": "Komi", "district_en": "Northwestern Federal District", "name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043c\u0438", "district": "\u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "10": {"name_en": "Karelia", "district_en": "Northwestern Federal District", "name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0430\u0440\u0435\u043b\u0438\u044f", "district": "\u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "13": {"name_en": "Mordovia", "district_en": "Volga Federal District", "name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u043e\u0440\u0434\u043e\u0432\u0438\u044f", "district": "\u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "12": {"name_en": "Mariy-El", "district_en": "Volga Federal District", "name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u0430\u0440\u0438\u0439 \u042d\u043b", "district": "\u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "15": {"name_en": "North Ossetia", "district_en": "North Caucasus federal district", "name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u041e\u0441\u0435\u0442\u0438\u044f \u2014 \u0410\u043b\u0430\u043d\u0438\u044f", "district": "\u0421\u0435\u0432\u0435\u0440\u043e-\u041a\u0430\u0432\u043a\u0430\u0437\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "14": {"name_en": "Sakha (Yakutia)", "district_en": "Far Eastern Federal District", "name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0430\u0445\u0430 (\u042f\u043a\u0443\u0442\u0438\u044f)", "district": "\u0414\u0430\u043b\u044c\u043d\u0435\u0432\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "17": {"name_en": "Tuva", "district_en": "Siberian Federal District", "name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0422\u044b\u0432\u0430", "district": "\u0421\u0438\u0431\u0438\u0440\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "16": {"name_en": "Tatarstan", "district_en": "Volga Federal District", "name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0422\u0430\u0442\u0430\u0440\u0441\u0442\u0430\u043d", "district": "\u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "19": {"name_en": "Khakass", "district_en": "Siberian Federal District", "name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0425\u0430\u043a\u0430\u0441\u0438\u044f", "district": "\u0421\u0438\u0431\u0438\u0440\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "18": {"name_en": "Udmurt", "district_en": "Volga Federal District", "name": "\u0423\u0434\u043c\u0443\u0440\u0442\u0441\u043a\u0430\u044f \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430", "district": "\u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "48": {"name_en": "Lipetsk", "district_en": "Central Federal District", "name": "\u041b\u0438\u043f\u0435\u0446\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "49": {"name_en": "Maga Buryatdan", "district_en": "Far Eastern Federal District", "name": "\u041c\u0430\u0433\u0430\u0434\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u0414\u0430\u043b\u044c\u043d\u0435\u0432\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "46": {"name_en": "Kursk", "district_en": "Central Federal District", "name": "\u041a\u0443\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "47": {"name_en": "Leningrad", "district_en": "Northwestern Federal District", "name": "\u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "44": {"name_en": "Kostroma", "district_en": "Central Federal District", "name": "\u041a\u043e\u0441\u0442\u0440\u043e\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "45": {"name_en": "Kurgan", "district_en": "Ural Federal District", "name": "\u041a\u0443\u0440\u0433\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "42": {"name_en": "Kemerovo", "district_en": "Siberian Federal District", "name": "\u041a\u0435\u043c\u0435\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u0421\u0438\u0431\u0438\u0440\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "43": {"name_en": "Kirov", "district_en": "Volga Federal District", "name": "\u041a\u0438\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "40": {"name_en": "Kaluga", "district_en": "Central Federal District", "name": "\u041a\u0430\u043b\u0443\u0436\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "41": {"name_en": "Kamchatka", "district_en": "Far Eastern Federal District", "name": "\u041a\u0430\u043c\u0447\u0430\u0442\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439", "district": "\u0414\u0430\u043b\u044c\u043d\u0435\u0432\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "77": {"name_en": "Moskva", "district_en": "Central Federal District", "name": "\u041c\u043e\u0441\u043a\u0432\u0430", "district": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "76": {"name_en": "Yaroslavl'", "district_en": "Central Federal District", "name": "\u042f\u0440\u043e\u0441\u043b\u0430\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "75": {"name_en": "Chita", "district_en": "Siberian Federal District", "name": "\u0417\u0430\u0431\u0430\u0439\u043a\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439", "district": "\u0421\u0438\u0431\u0438\u0440\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "74": {"name_en": "Chelyabinsk", "district_en": "Ural Federal District", "name": "\u0427\u0435\u043b\u044f\u0431\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "73": {"name_en": "Ul'yanovsk", "district_en": "Volga Federal District", "name": "\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "72": {"name_en": "Tyumen'", "district_en": "Ural Federal District", "name": "\u0422\u044e\u043c\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "71": {"name_en": "Tula", "district_en": "Central Federal District", "name": "\u0422\u0443\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "70": {"name_en": "Tomsk", "district_en": "Siberian Federal District", "name": "\u0422\u043e\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u0421\u0438\u0431\u0438\u0440\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "79": {"name_en": "Yevrey", "district_en": "Far Eastern Federal District", "name": "\u0415\u0432\u0440\u0435\u0439\u0441\u043a\u0430\u044f \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "district": "\u0414\u0430\u043b\u044c\u043d\u0435\u0432\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}, "78": {"name_en": "City of St. Petersburg", "district_en": "Northwestern Federal District", "name": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433", "district": "\u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"}}
+{
+  "01": {
+    "district": "Южный федеральный округ",
+    "district_en": "South federal district",
+    "name": "Республика Адыгея",
+    "name_en": "Adygey"
+  },
+  "02": {
+    "district": "Приволжский федеральный округ",
+    "district_en": "Volga Federal District",
+    "name": "Республика Башкортостан",
+    "name_en": "Bashkortostan"
+  },
+  "03": {
+    "district": "Сибирский федеральный округ",
+    "district_en": "Siberian Federal District",
+    "name": "Республика Бурятия",
+    "name_en": "Buryat"
+  },
+  "04": {
+    "district": "Сибирский федеральный округ",
+    "district_en": "Siberian Federal District",
+    "name": "Республика Алтай",
+    "name_en": "Gorno-Altay"
+  },
+  "05": {
+    "district": "Северо-Кавказский федеральный округ",
+    "district_en": "North Caucasus federal district",
+    "name": "Республика Дагестан",
+    "name_en": "Dagestan"
+  },
+  "06": {
+    "district": "Северо-Кавказский федеральный округ",
+    "district_en": "North Caucasus federal district",
+    "name": "Республика Ингушетия",
+    "name_en": "Ingush"
+  },
+  "07": {
+    "district": "Северо-Кавказский федеральный округ",
+    "district_en": "North Caucasus federal district",
+    "name": "Кабардино-Балкарская республика",
+    "name_en": "Kabardin-Balkar"
+  },
+  "08": {
+    "district": "Южный федеральный округ",
+    "district_en": "South federal district",
+    "name": "Республика Калмыкия",
+    "name_en": "Kalmyk"
+  },
+  "09": {
+    "district": "Северо-Кавказский федеральный округ",
+    "district_en": "North Caucasus federal district",
+    "name": "Карачаево-Черкесская республика",
+    "name_en": "Karachay-Cherkess"
+  },
+  "10": {
+    "district": "Северо-Западный федеральный округ",
+    "district_en": "Northwestern Federal District",
+    "name": "Республика Карелия",
+    "name_en": "Karelia"
+  },
+  "11": {
+    "district": "Северо-Западный федеральный округ",
+    "district_en": "Northwestern Federal District",
+    "name": "Республика Коми",
+    "name_en": "Komi"
+  },
+  "12": {
+    "district": "Приволжский федеральный округ",
+    "district_en": "Volga Federal District",
+    "name": "Республика Марий Эл",
+    "name_en": "Mariy-El"
+  },
+  "13": {
+    "district": "Приволжский федеральный округ",
+    "district_en": "Volga Federal District",
+    "name": "Республика Мордовия",
+    "name_en": "Mordovia"
+  },
+  "14": {
+    "district": "Дальневосточный федеральный округ",
+    "district_en": "Far Eastern Federal District",
+    "name": "Республика Саха (Якутия)",
+    "name_en": "Sakha (Yakutia)"
+  },
+  "15": {
+    "district": "Северо-Кавказский федеральный округ",
+    "district_en": "North Caucasus federal district",
+    "name": "Республика Северная Осетия — Алания",
+    "name_en": "North Ossetia"
+  },
+  "16": {
+    "district": "Приволжский федеральный округ",
+    "district_en": "Volga Federal District",
+    "name": "Республика Татарстан",
+    "name_en": "Tatarstan"
+  },
+  "17": {
+    "district": "Сибирский федеральный округ",
+    "district_en": "Siberian Federal District",
+    "name": "Республика Тыва",
+    "name_en": "Tuva"
+  },
+  "18": {
+    "district": "Приволжский федеральный округ",
+    "district_en": "Volga Federal District",
+    "name": "Удмуртская республика",
+    "name_en": "Udmurt"
+  },
+  "19": {
+    "district": "Сибирский федеральный округ",
+    "district_en": "Siberian Federal District",
+    "name": "Республика Хакасия",
+    "name_en": "Khakass"
+  },
+  "20": {
+    "district": "Северо-Кавказский федеральный округ",
+    "district_en": "North Caucasus federal district",
+    "name": "Чеченская республика",
+    "name_en": "Chechnya"
+  },
+  "21": {
+    "district": "Приволжский федеральный округ",
+    "district_en": "Volga Federal District",
+    "name": "Чувашская республика",
+    "name_en": "Chuvash"
+  },
+  "22": {
+    "district": "Сибирский федеральный округ",
+    "district_en": "Siberian Federal District",
+    "name": "Алтайский край",
+    "name_en": "Altay"
+  },
+  "23": {
+    "district": "Южный федеральный округ",
+    "district_en": "South federal district",
+    "name": "Краснодарский край",
+    "name_en": "Krasnodar"
+  },
+  "24": {
+    "district": "Сибирский федеральный округ",
+    "district_en": "Siberian Federal District",
+    "name": "Красноярский край",
+    "name_en": "Krasnoyarsk"
+  },
+  "25": {
+    "district": "Дальневосточный федеральный округ",
+    "district_en": "Far Eastern Federal District",
+    "name": "Приморский край",
+    "name_en": "Primor'ye"
+  },
+  "26": {
+    "district": "Северо-Кавказский федеральный округ",
+    "district_en": "North Caucasus federal district",
+    "name": "Ставропольский край",
+    "name_en": "Stavropol'"
+  },
+  "27": {
+    "district": "Дальневосточный федеральный округ",
+    "district_en": "Far Eastern Federal District",
+    "name": "Хабаровский край",
+    "name_en": "Khabarovsk"
+  },
+  "28": {
+    "district": "Дальневосточный федеральный округ",
+    "district_en": "Far Eastern Federal District",
+    "name": "Амурская область",
+    "name_en": "Amur"
+  },
+  "29": {
+    "district": "Северо-Западный федеральный округ",
+    "district_en": "Northwestern Federal District",
+    "name": "Архангельская область",
+    "name_en": "Arkhangel'sk"
+  },
+  "30": {
+    "district": "Южный федеральный округ",
+    "district_en": "South federal district",
+    "name": "Астраханская область",
+    "name_en": "Astrakhan'"
+  },
+  "31": {
+    "district": "Центральный федеральный округ",
+    "district_en": "Central Federal District",
+    "name": "Белгородская область",
+    "name_en": "Belgorod"
+  },
+  "32": {
+    "district": "Центральный федеральный округ",
+    "district_en": "Central Federal District",
+    "name": "Брянская область",
+    "name_en": "Bryansk"
+  },
+  "33": {
+    "district": "Центральный федеральный округ",
+    "district_en": "Central Federal District",
+    "name": "Владимирская область",
+    "name_en": "Vladimir"
+  },
+  "34": {
+    "district": "Южный федеральный округ",
+    "district_en": "South federal district",
+    "name": "Волгоградская область",
+    "name_en": "Volgograd"
+  },
+  "35": {
+    "district": "Северо-Западный федеральный округ",
+    "district_en": "Northwestern Federal District",
+    "name": "Вологодская область",
+    "name_en": "Vologda"
+  },
+  "36": {
+    "district": "Центральный федеральный округ",
+    "district_en": "Central Federal District",
+    "name": "Воронежская область",
+    "name_en": "Voronezh"
+  },
+  "37": {
+    "district": "Центральный федеральный округ",
+    "district_en": "Central Federal District",
+    "name": "Ивановская область",
+    "name_en": "Ivanovo"
+  },
+  "38": {
+    "district": "Сибирский федеральный округ",
+    "district_en": "Siberian Federal District",
+    "name": "Иркутская область",
+    "name_en": "Irkutsk"
+  },
+  "39": {
+    "district": "Северо-Западный федеральный округ",
+    "district_en": "Northwestern Federal District",
+    "name": "Калининградская область",
+    "name_en": "Kaliningrad"
+  },
+  "40": {
+    "district": "Центральный федеральный округ",
+    "district_en": "Central Federal District",
+    "name": "Калужская область",
+    "name_en": "Kaluga"
+  },
+  "41": {
+    "district": "Дальневосточный федеральный округ",
+    "district_en": "Far Eastern Federal District",
+    "name": "Камчатский край",
+    "name_en": "Kamchatka"
+  },
+  "42": {
+    "district": "Сибирский федеральный округ",
+    "district_en": "Siberian Federal District",
+    "name": "Кемеровская область",
+    "name_en": "Kemerovo"
+  },
+  "43": {
+    "district": "Приволжский федеральный округ",
+    "district_en": "Volga Federal District",
+    "name": "Кировская область",
+    "name_en": "Kirov"
+  },
+  "44": {
+    "district": "Центральный федеральный округ",
+    "district_en": "Central Federal District",
+    "name": "Костромская область",
+    "name_en": "Kostroma"
+  },
+  "45": {
+    "district": "Уральский федеральный округ",
+    "district_en": "Ural Federal District",
+    "name": "Курганская область",
+    "name_en": "Kurgan"
+  },
+  "46": {
+    "district": "Центральный федеральный округ",
+    "district_en": "Central Federal District",
+    "name": "Курская область",
+    "name_en": "Kursk"
+  },
+  "47": {
+    "district": "Северо-Западный федеральный округ",
+    "district_en": "Northwestern Federal District",
+    "name": "Ленинградская область",
+    "name_en": "Leningrad"
+  },
+  "48": {
+    "district": "Центральный федеральный округ",
+    "district_en": "Central Federal District",
+    "name": "Липецкая область",
+    "name_en": "Lipetsk"
+  },
+  "49": {
+    "district": "Дальневосточный федеральный округ",
+    "district_en": "Far Eastern Federal District",
+    "name": "Магаданская область",
+    "name_en": "Maga Buryatdan"
+  },
+  "50": {
+    "district": "Центральный федеральный округ",
+    "district_en": "Central Federal District",
+    "name": "Московская область",
+    "name_en": "Moskovsskaya"
+  },
+  "51": {
+    "district": "Северо-Западный федеральный округ",
+    "district_en": "Northwestern Federal District",
+    "name": "Мурманская область",
+    "name_en": "Murmansk"
+  },
+  "52": {
+    "district": "Приволжский федеральный округ",
+    "district_en": "Volga Federal District",
+    "name": "Нижегородская область",
+    "name_en": "Nizhegorod"
+  },
+  "53": {
+    "district": "Северо-Западный федеральный округ",
+    "district_en": "Northwestern Federal District",
+    "name": "Новгородская область",
+    "name_en": "Novgorod"
+  },
+  "54": {
+    "district": "Сибирский федеральный округ",
+    "district_en": "Siberian Federal District",
+    "name": "Новосибирская область",
+    "name_en": "Novosibirsk"
+  },
+  "55": {
+    "district": "Сибирский федеральный округ",
+    "district_en": "Siberian Federal District",
+    "name": "Омская область",
+    "name_en": "Omsk"
+  },
+  "56": {
+    "district": "Приволжский федеральный округ",
+    "district_en": "Volga Federal District",
+    "name": "Оренбургская область",
+    "name_en": "Orenburg"
+  },
+  "57": {
+    "district": "Центральный федеральный округ",
+    "district_en": "Central Federal District",
+    "name": "Орловская область",
+    "name_en": "Orel"
+  },
+  "58": {
+    "district": "Приволжский федеральный округ",
+    "district_en": "Volga Federal District",
+    "name": "Пензенская область",
+    "name_en": "Penza"
+  },
+  "59": {
+    "district": "Приволжский федеральный округ",
+    "district_en": "Volga Federal District",
+    "name": "Пермский край",
+    "name_en": "Perm'"
+  },
+  "60": {
+    "district": "Северо-Западный федеральный округ",
+    "district_en": "Northwestern Federal District",
+    "name": "Псковская область",
+    "name_en": "Pskov"
+  },
+  "61": {
+    "district": "Южный федеральный округ",
+    "district_en": "South federal district",
+    "name": "Ростовская область",
+    "name_en": "Rostov"
+  },
+  "62": {
+    "district": "Центральный федеральный округ",
+    "district_en": "Central Federal District",
+    "name": "Рязанская область",
+    "name_en": "Ryazan'"
+  },
+  "63": {
+    "district": "Приволжский федеральный округ",
+    "district_en": "Volga Federal District",
+    "name": "Самарская область",
+    "name_en": "Samara"
+  },
+  "64": {
+    "district": "Приволжский федеральный округ",
+    "district_en": "Volga Federal District",
+    "name": "Саратовская область",
+    "name_en": "Saratov"
+  },
+  "65": {
+    "district": "Дальневосточный федеральный округ",
+    "district_en": "Far Eastern Federal District",
+    "name": "Сахалинская область",
+    "name_en": "Sakhalin"
+  },
+  "66": {
+    "district": "Уральский федеральный округ",
+    "district_en": "Ural Federal District",
+    "name": "Свердловская область",
+    "name_en": "Sverdlovsk"
+  },
+  "67": {
+    "district": "Центральный федеральный округ",
+    "district_en": "Central Federal District",
+    "name": "Смоленская область",
+    "name_en": "Smolensk"
+  },
+  "68": {
+    "district": "Центральный федеральный округ",
+    "district_en": "Central Federal District",
+    "name": "Тамбовская область",
+    "name_en": "Tambov"
+  },
+  "69": {
+    "district": "Центральный федеральный округ",
+    "district_en": "Central Federal District",
+    "name": "Тверская область",
+    "name_en": "Tver'"
+  },
+  "70": {
+    "district": "Сибирский федеральный округ",
+    "district_en": "Siberian Federal District",
+    "name": "Томская область",
+    "name_en": "Tomsk"
+  },
+  "71": {
+    "district": "Центральный федеральный округ",
+    "district_en": "Central Federal District",
+    "name": "Тульская область",
+    "name_en": "Tula"
+  },
+  "72": {
+    "district": "Уральский федеральный округ",
+    "district_en": "Ural Federal District",
+    "name": "Тюменская область",
+    "name_en": "Tyumen'"
+  },
+  "73": {
+    "district": "Приволжский федеральный округ",
+    "district_en": "Volga Federal District",
+    "name": "Ульяновская область",
+    "name_en": "Ul'yanovsk"
+  },
+  "74": {
+    "district": "Уральский федеральный округ",
+    "district_en": "Ural Federal District",
+    "name": "Челябинская область",
+    "name_en": "Chelyabinsk"
+  },
+  "75": {
+    "district": "Сибирский федеральный округ",
+    "district_en": "Siberian Federal District",
+    "name": "Забайкальский край",
+    "name_en": "Chita"
+  },
+  "76": {
+    "district": "Центральный федеральный округ",
+    "district_en": "Central Federal District",
+    "name": "Ярославская область",
+    "name_en": "Yaroslavl'"
+  },
+  "77": {
+    "district": "Центральный федеральный округ",
+    "district_en": "Central Federal District",
+    "name": "Москва",
+    "name_en": "Moskva"
+  },
+  "78": {
+    "district": "Северо-Западный федеральный округ",
+    "district_en": "Northwestern Federal District",
+    "name": "Санкт-Петербург",
+    "name_en": "City of St. Petersburg"
+  },
+  "79": {
+    "district": "Дальневосточный федеральный округ",
+    "district_en": "Far Eastern Federal District",
+    "name": "Еврейская автономная область",
+    "name_en": "Yevrey"
+  },
+  "80": {
+    "district": "Сибирский федеральный округ",
+    "district_en": "Siberian Federal District",
+    "name": "Забайкальский край",
+    "name_en": "Chita"
+  },
+  "81": {
+    "district": "Приволжский федеральный округ",
+    "district_en": "Volga Federal District",
+    "name": "Пермский край",
+    "name_en": "Perm'"
+  },
+  "82": {
+    "district": "Дальневосточный федеральный округ",
+    "district_en": "Far Eastern Federal District",
+    "name": "Камчатский край",
+    "name_en": "Kamchatka"
+  },
+  "83": {
+    "district": "Северо-Западный федеральный округ",
+    "district_en": "Northwestern Federal District",
+    "name": "Ненецкий автономный округ",
+    "name_en": "Nenets"
+  },
+  "84": {
+    "district": "Сибирский федеральный округ",
+    "district_en": "Siberian Federal District",
+    "name": "Красноярский край",
+    "name_en": "Krasnoyarsk"
+  },
+  "85": {
+    "district": "Сибирский федеральный округ",
+    "district_en": "Siberian Federal District",
+    "name": "Иркутская область",
+    "name_en": "Irkutsk"
+  },
+  "86": {
+    "district": "Уральский федеральный округ",
+    "district_en": "Ural Federal District",
+    "name": "Ханты-Мансийский автономный округ - Югра",
+    "name_en": "Khanty-Mansiy"
+  },
+  "87": {
+    "district": "Дальневосточный федеральный округ",
+    "district_en": "Far Eastern Federal District",
+    "name": "Чукотский автономный округ",
+    "name_en": "Chukchi Autonomous Okrug"
+  },
+  "88": {
+    "district": "Сибирский федеральный округ",
+    "district_en": "Siberian Federal District",
+    "name": "Красноярский край",
+    "name_en": "Krasnoyarsk"
+  },
+  "89": {
+    "district": "Уральский федеральный округ",
+    "district_en": "Ural Federal District",
+    "name": "Ямало-Ненецкий автономный округ",
+    "name_en": "Yamal-Nenets"
+  },
+  "91": {
+    "district": "Южный федеральный округ",
+    "district_en": "South federal district",
+    "name": "Республика Крым",
+    "name_en": "Crimea"
+  },
+  "92": {
+    "district": "Южный федеральный округ",
+    "district_en": "South federal district",
+    "name": "Севастополь",
+    "name_en": "Sevastopol'"
+  },
+  "93": {
+    "district": "Приволжский федеральный округ",
+    "district_en": "Volga Federal District",
+    "name": "Ульяновская область",
+    "name_en": "Ul'yanovsk"
+  },
+  "94": {
+    "district": "Приволжский федеральный округ",
+    "district_en": "Volga Federal District",
+    "name": "Саратовская область",
+    "name_en": "Saratov"
+  },
+  "97": {
+    "district": "Центральный федеральный округ",
+    "district_en": "Central Federal District",
+    "name": "Москва",
+    "name_en": "Moskva"
+  },
+  "99": {
+    "district": "-",
+    "district_en": "-",
+    "name": "Не определено",
+    "name_en": "-"
+  }
+}
