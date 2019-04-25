@@ -92,8 +92,8 @@
       "80",
       "75"
     ],
-    "district": "Сибирский федеральный округ",
-    "district_en": "Siberian Federal District",
+    "district": "Дальневосточный федеральный округ",
+    "district_en": "Far Eastern Federal District",
     "name_en": "Chita"
   },
   "Ивановская область": {
@@ -386,8 +386,8 @@
     "codes": [
       "03"
     ],
-    "district": "Сибирский федеральный округ",
-    "district_en": "Siberian Federal District",
+    "district": "Дальневосточный федеральный округ",
+    "district_en": "Far Eastern Federal District",
     "name_en": "Buryat"
   },
   "Республика Дагестан": {
