@@ -12,8 +12,8 @@
     "name_en": "Bashkortostan"
   },
   "03": {
-    "district": "Сибирский федеральный округ",
-    "district_en": "Siberian Federal District",
+    "district": "Дальневосточный федеральный округ",
+    "district_en": "Far Eastern Federal District",
     "name": "Республика Бурятия",
     "name_en": "Buryat"
   },
@@ -444,8 +444,8 @@
     "name_en": "Chelyabinsk"
   },
   "75": {
-    "district": "Сибирский федеральный округ",
-    "district_en": "Siberian Federal District",
+    "district": "Дальневосточный федеральный округ",
+    "district_en": "Far Eastern Federal District",
     "name": "Забайкальский край",
     "name_en": "Chita"
   },
@@ -474,8 +474,8 @@
     "name_en": "Yevrey"
   },
   "80": {
-    "district": "Сибирский федеральный округ",
-    "district_en": "Siberian Federal District",
+    "district": "Дальневосточный федеральный округ",
+    "district_en": "Far Eastern Federal District",
     "name": "Забайкальский край",
     "name_en": "Chita"
   },
